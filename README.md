@@ -1,4 +1,4 @@
-# Roadmap Projects
+# Roadmap Projects Solutions
 This repository contains the solutions I have implemented for the projects on roadmap.sh. Each solution demonstrates how I applied the principles and techniques from the roadmap, as well as my ability to tackle real-world challenges and follow best coding practices. This collection not only reflects my commitment to the roadmap but also showcases my progress in developing my skills.
 ## Front End
 - [x] [Single-Page CV](https://roadmap.sh/projects/single-page-cv)
